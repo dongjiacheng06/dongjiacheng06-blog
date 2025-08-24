@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # Jekyll和主题
 gem "jekyll", "~> 4.3"
-# gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"  # 注释掉，使用remote_theme
+gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 
 # 必需的插件  
 gem "jekyll-paginate"

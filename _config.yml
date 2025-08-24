@@ -29,8 +29,8 @@ social:
 # Avatar设置
 avatar: "/assets/images/personal_photo.jpg"
 
-# Theme (remote_theme for GitHub Pages compatibility)
-remote_theme: cotes2020/jekyll-theme-chirpy@v7.0.1
+# Theme
+theme: jekyll-theme-chirpy
 
 # Plugins
 plugins:
@@ -40,7 +40,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-redirect-from
 
