@@ -26,6 +26,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/dongjiacheng06
 
+# Avatar设置
+avatar: "/assets/images/personal_photo.jpg"
+
 # Theme
 theme: jekyll-theme-chirpy
 
