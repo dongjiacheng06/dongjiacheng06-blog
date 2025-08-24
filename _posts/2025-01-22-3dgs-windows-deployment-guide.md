@@ -5,9 +5,9 @@ categories: [3D Vision, Tutorial]
 tags: [3DGS, Windows, CUDA, PyTorch, 环境配置, 部署指南]
 math: true
 mermaid: true
-image:
-  path: /assets/images/3dgs-deployment.jpg
-  alt: 3D Gaussian Splatting Windows 部署
+# image:
+#   path: /assets/images/3dgs-deployment.jpg
+#   alt: 3D Gaussian Splatting Windows 部署
 ---
 
 ## 概述

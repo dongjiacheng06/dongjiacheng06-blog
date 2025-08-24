@@ -12,6 +12,7 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-include-cache"
+gem "jekyll-archives"
 
 # 测试
 gem "html-proofer", "~> 5.0", group: :test
