@@ -29,8 +29,8 @@ social:
 # Avatar设置
 avatar: "/assets/images/personal_photo.jpg"
 
-# Theme
-theme: jekyll-theme-chirpy
+# Theme (remote_theme for GitHub Pages compatibility)
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Plugins
 plugins:
@@ -40,6 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-remote-theme
 
 # Pagination
 paginate: 5
@@ -48,6 +49,10 @@ paginate_path: "/page:num/"
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+# 确保文章显示在首页
+future: true
+show_excerpts: true
 
 # Collections
 collections:

@@ -4,15 +4,16 @@ source "https://rubygems.org"
 
 # Jekyll和主题
 gem "jekyll", "~> 4.3"
-gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
+# gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"  # 注释掉，使用remote_theme
 
-# 必需的插件
+# 必需的插件  
 gem "jekyll-paginate"
-gem "jekyll-sitemap"
+gem "jekyll-sitemap" 
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-include-cache"
 gem "jekyll-archives"
+gem "jekyll-remote-theme"  # 支持remote_theme
 
 # 测试
 gem "html-proofer", "~> 5.0", group: :test
