@@ -5,9 +5,9 @@ categories: [3D Vision, Research]
 tags: [3DGS, MVSplat, Multi-View, 稀疏视角, 神经渲染, Feed-Forward]
 math: true
 mermaid: true
-# image:
-#   path: /assets/images/mvsplat-preview.jpg
-#   alt: MVSplat 稀疏多视角3D重建
+image:
+  path: /assets/images/mvsplat-preview.png
+  alt: MVSplat 稀疏多视角3D重建
 ---
 
 ## 概述

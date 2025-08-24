@@ -5,9 +5,9 @@ categories: [3D Vision, Gaussian Splatting]
 tags: [3DGS, 神经渲染, 3D重建, NeRF]
 math: true
 mermaid: true
-# image:
-#   path: /assets/images/3dgs-preview.jpg
-#   alt: 3D Gaussian Splatting 效果展示
+image:
+  path: /assets/images/3dgs-preview.png
+  alt: 3D Gaussian Splatting 效果展示
 ---
 
 ## 什么是3D Gaussian Splatting？

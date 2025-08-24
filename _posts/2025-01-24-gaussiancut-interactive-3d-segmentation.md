@@ -5,9 +5,9 @@ categories: [3D Vision, Segmentation]
 tags: [3DGS, 图割, 交互式分割, Graph Cut, 3D编辑]
 math: true
 mermaid: true
-# image:
-#   path: /assets/images/gaussiancut-preview.jpg
-#   alt: GaussianCut 交互式3D分割
+image:
+  path: /assets/images/gaussiancut-preview.png
+  alt: GaussianCut 交互式3D分割
 ---
 
 ## 概述

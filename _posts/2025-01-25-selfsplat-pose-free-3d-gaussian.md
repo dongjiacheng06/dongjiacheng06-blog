@@ -5,9 +5,9 @@ categories: [3D Vision, Research]
 tags: [3DGS, SelfSplat, Pose-Free, 无监督, 泛化性, CVPR2025]
 math: true
 mermaid: true
-# image:
-#   path: /assets/images/selfsplat-preview.jpg
-#   alt: SelfSplat 无位姿3D重建
+image:
+  path: /assets/images/selfsplat-preview.png
+  alt: SelfSplat 无位姿3D重建
 ---
 
 ## 概述
