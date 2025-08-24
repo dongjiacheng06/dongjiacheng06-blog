@@ -1,6 +1,6 @@
 ---
 title: GaussianCut：基于图割的3D高斯散射交互式分割
-date: 2025-01-24 16:00:00 +0800
+date: 2025-08-25
 categories: [3D Vision, Segmentation]
 tags: [3DGS, 图割, 交互式分割, Graph Cut, 3D编辑]
 math: true

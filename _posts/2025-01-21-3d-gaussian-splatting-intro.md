@@ -1,6 +1,6 @@
 ---
 title: 3D Gaussian Splatting 入门指南
-date: 2025-01-21 14:30:00 +0800
+date: 2025-08-25
 categories: [3D Vision, Gaussian Splatting]
 tags: [3DGS, 神经渲染, 3D重建, NeRF]
 math: true
