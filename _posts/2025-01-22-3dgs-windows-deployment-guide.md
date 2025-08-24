@@ -1,6 +1,6 @@
 ---
 title: 3D Gaussian Splatting Windows 部署完整指南
-date: 2025-08-25
+date: 2025-08-25 11:00:00 +0800
 categories: [3D Vision, Tutorial]
 tags: [3DGS, Windows, CUDA, PyTorch, 环境配置, 部署指南]
 math: true

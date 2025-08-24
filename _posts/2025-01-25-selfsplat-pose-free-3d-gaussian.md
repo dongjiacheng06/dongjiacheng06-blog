@@ -1,6 +1,6 @@
 ---
 title: SelfSplat：无位姿无先验的可泛化3D高斯散射
-date: 2025-08-25
+date: 2025-08-25 14:00:00 +0800
 categories: [3D Vision, Research]
 tags: [3DGS, SelfSplat, Pose-Free, 无监督, 泛化性, CVPR2025]
 math: true

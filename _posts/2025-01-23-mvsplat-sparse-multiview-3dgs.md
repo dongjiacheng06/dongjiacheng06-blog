@@ -1,6 +1,6 @@
 ---
 title: MVSplat：基于稀疏多视角图像的高效3D高斯散射
-date: 2025-08-25
+date: 2025-08-25 12:00:00 +0800
 categories: [3D Vision, Research]
 tags: [3DGS, MVSplat, Multi-View, 稀疏视角, 神经渲染, Feed-Forward]
 math: true
