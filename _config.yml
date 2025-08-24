@@ -30,7 +30,7 @@ social:
 avatar: "/assets/images/personal_photo.jpg"
 
 # Theme (remote_theme for GitHub Pages compatibility)
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v7.0.1
 
 # Plugins
 plugins:
