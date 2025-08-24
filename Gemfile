@@ -14,6 +14,7 @@ gem "jekyll-feed"
 gem "jekyll-include-cache"
 gem "jekyll-archives"
 gem "jekyll-remote-theme"  # 支持remote_theme
+gem "jekyll-seo-tag"  # Chirpy主题必需
 
 # 测试
 gem "html-proofer", "~> 5.0", group: :test

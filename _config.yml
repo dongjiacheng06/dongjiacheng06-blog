@@ -41,6 +41,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Pagination
 paginate: 5
