@@ -1,0 +1,19 @@
+﻿Status,Name,DOI：
+To read,Hand-held Object Reconstruction with Dynamic Interaction,
+In progress,HOLD,
+To read,,
+To read,,
+To read,Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering,arXiv:2312.00109v1
+To read,3D Gaussian Splatting for Real-Time Radiance Field Rendering,
+Done,MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images,https://arxiv.org/pdf/2403.14627
+To read,ViT,
+To read,SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields,
+To read,GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding,https://arxiv.org/pdf/2412.13193
+Done,DSG-World: Learning a 3D Gaussian World Model from Dual State Videos,https://arxiv.org/pdf/2506.05217
+To read,GaussianCut: Interactive Segmentation via Graph Cut for 3D Gaussian Splatting,https://arxiv.org/pdf/2411.07555
+Done,SPLATFORMER: POINT TRANSFORMER FOR ROBUST3D GAUSSIAN SPLATTING,https://arxiv.org/abs/2411.07555
+Done,3DGS部署,
+To read,TransMVSNet,
+To read,SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting,https://arxiv.org/abs/2411.17190
+To read,GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting,https://arxiv.org/pdf/2408.11447
+To read,No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views,https://arxiv.org/pdf/2508.01171
