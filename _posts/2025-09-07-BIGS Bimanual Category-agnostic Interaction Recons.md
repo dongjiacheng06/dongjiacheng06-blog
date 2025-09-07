@@ -1,5 +1,5 @@
 ---
-title: BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting
+title: "BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting"
 date: 2025-09-07 17:57:00 +0800
 categories: [3D Vision, Research]
 tags: [3DGS, HANDS, Multi-View, Reconstruction, 手部重建]
