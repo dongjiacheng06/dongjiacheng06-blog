@@ -10,10 +10,7 @@ mermaid: true
 image:
   path: /assets/images/SPLATFORMER.png
   alt: SPLATFORMER与其他方法的对比图
-
-
-
-网站：https://sergeyprokudin.github.io/splatformer/
+---
 
 2025 ICLR spotlight
 
