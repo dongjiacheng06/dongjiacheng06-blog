@@ -4,6 +4,8 @@ date: 2025-08-25 10:00:00 +0800
 categories: [3D Vision, Gaussian Splatting]
 tags: [3DGS, 神经渲染, 3D重建, NeRF]
 math: true
+DOI：: https://arxiv.org/abs/2307.02588
+开源代码: https://github.com/graphdeco-inria/gaussian-splatting
 mermaid: true
 image:
   path: /assets/images/3dgs-preview.png

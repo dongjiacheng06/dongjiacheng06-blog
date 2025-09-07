@@ -2,8 +2,10 @@
 title: MVSplat：基于稀疏多视角图像的高效3D高斯散射
 date: 2025-08-25 12:00:00 +0800
 categories: [3D Vision, Research]
-tags: [3DGS, MVSplat, Multi-View, 稀疏视角, 神经渲染, Feed-Forward]
+tags: [3DGS, MVSplat, 稀疏视角, 神经渲染, Feed-Forward]
 math: true
+DOI：: https://arxiv.org/pdf/2403.14627
+开源代码: https://github.com/donydchen/mvsplat
 mermaid: true
 image:
   path: /assets/images/mvsplat-preview.png
@@ -12,7 +14,7 @@ image:
 
 ## 概述
 
-MVSplat是一种革命性的方法，能够从仅仅几张稀疏的多视角图像快速重建高质量的3D场景。与传统的需要数百张图像和长时间优化的方法不同，MVSplat通过前馈网络实现了实时3D重建。
+MVSplat是一种革命性的方法,非常有趣，能够从仅仅几张稀疏的多视角图像快速重建高质量的3D场景。与传统的需要数百张图像和长时间优化的方法不同，MVSplat通过前馈网络实现了实时3D重建。
 
 ## 问题背景
 
