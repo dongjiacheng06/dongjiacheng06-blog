@@ -1,0 +1,68 @@
+<style>
+/* 侧边栏底部快捷导航（靠近明暗切换按钮） */
+.sidebar-quick-links {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+
+.sidebar-quick-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid rgba(127,127,127,0.25);
+  transition: background .15s ease, transform .15s ease, border-color .15s ease;
+}
+
+.sidebar-quick-links a:hover {
+  background: rgba(127,127,127,0.12);
+  transform: translateY(-1px);
+  border-color: rgba(127,127,127,0.35);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Chirpy 主题侧栏底部容器（含明暗切换按钮）
+  var bottom = document.querySelector('.sidebar-bottom') || document.querySelector('#sidebar .bottom') || document.querySelector('.sidebar .bottom');
+  if (!bottom) {
+    return; // 找不到时不处理
+  }
+
+  // 若已存在则避免重复添加
+  if (bottom.querySelector('.sidebar-quick-links')) {
+    return;
+  }
+
+  var wrap = document.createElement('div');
+  wrap.className = 'sidebar-quick-links';
+
+  // GitHub
+  var gh = document.createElement('a');
+  gh.href = 'https://github.com/dongjiacheng06';
+  gh.target = '_blank';
+  gh.rel = 'noopener';
+  gh.setAttribute('aria-label', 'GitHub');
+  gh.textContent = 'GitHub';
+  wrap.appendChild(gh);
+
+  // 个人首页
+  var home = document.createElement('a');
+  home.href = 'https://dongjiacheng06.github.io/';
+  home.target = '_blank';
+  home.rel = 'noopener';
+  home.setAttribute('aria-label', 'Homepage');
+  home.textContent = 'Homepage';
+  wrap.appendChild(home);
+
+  bottom.appendChild(wrap);
+});
+</script>
+
