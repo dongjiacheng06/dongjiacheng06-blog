@@ -12,7 +12,7 @@ image:
   alt: SPLATFORMER与其他方法的对比图
 ---
 
-2025 ICLR spotlight
+2025 ICLR spotlight（我很喜欢这一篇，Point Transformer我可太熟了）
 
 ## 概括
 

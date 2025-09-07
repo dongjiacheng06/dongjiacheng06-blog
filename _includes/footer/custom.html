@@ -1,0 +1,49 @@
+<div class="floating-left-links-blog" aria-label="Quick links">
+  <a href="https://github.com/dongjiacheng06" class="floating-link" target="_blank" rel="noopener" aria-label="GitHub">GitHub</a>
+  <a href="https://dongjiacheng06.github.io/" class="floating-link" target="_blank" rel="noopener" aria-label="Homepage">Home</a>
+</div>
+
+<style>
+.floating-left-links-blog {
+  position: fixed;
+  left: 64px; /* 避开左下角主题切换按钮 */
+  bottom: 16px;
+  display: flex;
+  gap: 10px;
+  z-index: 1000;
+}
+
+.floating-left-links-blog .floating-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 12px;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 8px;
+  backdrop-filter: blur(8px);
+  transition: transform 0.15s ease, background 0.15s ease;
+  font-size: 14px;
+}
+
+.floating-left-links-blog .floating-link:hover {
+  transform: translateY(-2px);
+  background: rgba(0, 0, 0, 0.6);
+}
+
+@media (max-width: 768px) {
+  .floating-left-links-blog {
+    left: 56px;
+    bottom: 12px;
+    gap: 8px;
+  }
+
+  .floating-left-links-blog .floating-link {
+    padding: 6px 10px;
+    font-size: 13px;
+    border-radius: 6px;
+  }
+}
+</style>
+
