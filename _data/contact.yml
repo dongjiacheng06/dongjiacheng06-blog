@@ -13,8 +13,3 @@
   url: "mailto:Dong48@illinois.edu"
   noblank: true
 
-- type: rss
-  icon: "fas fa-rss"
-  url: "/dongjiacheng06-blog/feed.xml"
-  noblank: true
-
