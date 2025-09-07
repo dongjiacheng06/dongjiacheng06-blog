@@ -1,0 +1,20 @@
+# Override Chirpy sidebar contact icons
+
+- type: github
+  icon: "fab fa-github"
+  url: "https://github.com/dongjiacheng06"
+
+- type: home
+  icon: "fas fa-home"
+  url: "https://dongjiacheng06.github.io/"
+
+- type: email
+  icon: "fas fa-envelope"
+  url: "mailto:Dong48@illinois.edu"
+  noblank: true
+
+- type: rss
+  icon: "fas fa-rss"
+  url: "/dongjiacheng06-blog/feed.xml"
+  noblank: true
+

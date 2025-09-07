@@ -25,6 +25,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/dongjiacheng06
+    - { icon: 'fas fa-home', url: 'https://dongjiacheng06.github.io', label: 'Homepage' }
 
 # Avatar设置
 avatar: "/assets/images/personal_photo.jpg"
