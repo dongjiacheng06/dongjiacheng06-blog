@@ -10,9 +10,10 @@ order: 5
 <style>
 .friend-links {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1rem;
-  margin: 1rem 0;
+  max-width: 720px;
+  margin: 1rem auto;
 }
 
 .friend-card {
