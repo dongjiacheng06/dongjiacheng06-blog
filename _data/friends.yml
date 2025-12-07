@@ -4,3 +4,8 @@
   url: https://tzblog.tech
   description: "Zhou really wants to make something valuable (and profitable!)"
   avatar: https://tzblog.tech/avatar.jpg
+- name: CyanHaze
+  subtitle: CyanHaze's Homepage
+  url: https://cyanhaze.github.io/
+  description: "ZJU 机械本科生，专注 Robotics / Embodied AI / Robot Perception / CV / DL。"
+  avatar: https://cyanhaze.github.io/images/avatar.png
